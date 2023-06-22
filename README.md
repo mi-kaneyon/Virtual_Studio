@@ -1,6 +1,13 @@
 # Virtual_Studio
 Personal use simple virtual studio
 
+## My environment
+Pytorch 2.0.1
+torchvision 0.15.2
+opencv-python 4.7.0.72
+Pillow  9.3.0
+
+
 ## wherever you can take movie! Whenever you want
 - Without setting up studio
 - just you set background image file only
