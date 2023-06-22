@@ -1,6 +1,11 @@
 # Virtual_Studio
 Personal use simple virtual studio
 
+- Using webcam creating easy broadcasting envrionment.
+- Only person tracking and hide your background.
+- Don't mind show your realtime video even if background is messy;)
+
+
 ## My environment
 Pytorch 2.0.1
 
@@ -14,8 +19,9 @@ Pillow  9.3.0
 
 ## wherever you can take movie! Whenever you want
 - Without setting up studio
-- just you set background image file only
+- just you configure background image file only
 - Easy create Virtual studio
+- Other use case virtual travel? As you like. 
 
 ## command line
 
