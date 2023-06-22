@@ -41,6 +41,7 @@ background = background.resize((640, 480))  # Adjust this to match your webcam r
 background = np.array(background)  # Keep the background in its original color scale
 
 ```
+### AI pre-trained model : models.segmentation.deeplabv3_resnet101
 
 ## Example
 ![virtual studio](samplee.png "example")
