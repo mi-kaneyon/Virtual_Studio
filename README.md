@@ -14,6 +14,10 @@ python studiocam.py
 ```
 Enjoy shooting your DIY movie!
 
+## Example
+![virtual studio](samplee.png "example")
+
+
 ### Thanks (utilize sample)
 
 https://unsplash.com/photos/VPavA7BBxK0
