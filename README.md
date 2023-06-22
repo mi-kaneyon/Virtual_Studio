@@ -31,6 +31,17 @@ python studiocam.py
 ```
 Enjoy shooting your DIY movie!
 
+## Replace background image
+
+```
+
+# Load the background image
+background = Image.open('background.jpg')
+background = background.resize((640, 480))  # Adjust this to match your webcam resolution
+background = np.array(background)  # Keep the background in its original color scale
+
+```
+
 ## Example
 ![virtual studio](samplee.png "example")
 
