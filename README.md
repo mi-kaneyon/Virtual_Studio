@@ -23,13 +23,24 @@ Pillow  9.3.0
 - Easy create Virtual studio
 - Other use case virtual travel? As you like. 
 
-## command line
+# command line
 
 ```
 python studiocam.py
 
 ```
 Enjoy shooting your DIY movie!
+- Press 'q' quit
+
+## command line : studiocapture
+
+```
+python studiocapture.py
+
+```
+- Press 's' key start capture video by MP4 format
+- Press 'q' quit
+
 
 ## Replace background image
 
