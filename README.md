@@ -57,6 +57,12 @@ background = np.array(background)  # Keep the background in its original color s
 ## Example
 ![virtual studio](samplee.png "example")
 
+# Movie sample
+
+https://www.youtube.com/watch?v=vj_2_T0abF8
+
+- due to using doll, some part show background. but real person is no problem!
+
 
 ### Thanks (utilize sample)
 
