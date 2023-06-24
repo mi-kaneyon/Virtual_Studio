@@ -59,7 +59,7 @@ background = np.array(background)  # Keep the background in its original color s
 
 # Movie sample
 
-https://www.youtube.com/watch?v=vj_2_T0abF8
+[https://www.youtube.com/watch?v=vj_2_T0abF8](https://youtu.be/vj_2_T0abF8)
 
 - due to using doll, some part show background. but real person is no problem!
 
