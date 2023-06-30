@@ -64,6 +64,25 @@ https://youtu.be/LKrsrvXfox4
 
 - due to using doll, some part show background. but real person is no problem!
 
+# Resolution arrangement
+**Please check SD_size sub directory codes**
+in the code define movie and background image resolution.
+Although using Pytorch(GPU), fps is depends on machine and resolution;)
+
+```
+# Load the background image
+background = Image.open('background.jpg')
+background = background.resize((1280, 720))  # Adjust this to match your webcam resolution
+background = np.array(background)  # Keep the background in its original color scale
+
+cap = cv2.VideoCapture(0)
+
+# Set the video resolution to 1280x720
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
+```
+
+
 
 ### Thanks (utilize sample)
 
