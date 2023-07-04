@@ -71,6 +71,7 @@ Although using Pytorch(GPU), fps is depends on machine and resolution;)
 
 ```
 # Load the background image
+## Attention!! change code for novice engineer utilize SD size code for your convenience. 
 background = Image.open('background.jpg')
 background = background.resize((1280, 720))  # Adjust this to match your webcam resolution
 background = np.array(background)  # Keep the background in its original color scale
