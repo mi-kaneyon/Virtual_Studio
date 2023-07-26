@@ -1,5 +1,10 @@
-# Virtual_Studio
+# Virtual_Studio （どこでもスタジオ）
 ## You can create Personal virtual studio easily!!
+### 任意の背景を指定していかにもその場にいるかのようにします。
+- 背景上に人間を出しているので背景に実際の場所が抜けることはありません。
+- 日本語解説は以下のURLを参照してください
+https://qiita.com/Manyan3/items/593c40acc45cc0256d28
+
 
 - Using webcam creating easy broadcasting envrionment.
 - Only person tracking and hide your background.
