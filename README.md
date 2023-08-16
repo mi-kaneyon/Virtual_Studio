@@ -10,6 +10,8 @@ https://qiita.com/Manyan3/items/593c40acc45cc0256d28
 - Only person tracking and hide your background.
 - Don't mind show your realtime video even if background is messy;)
 
+## Capture がついているファイルがMP4ファイル保存できます。
+- If you want to capture movie, please use capture version.
 
 ## My environment
 Pytorch 2.0.1
