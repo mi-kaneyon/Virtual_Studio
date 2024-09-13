@@ -1,7 +1,7 @@
 # Virtual_Studio （どこでもスタジオ）
 ## You can create Personal virtual studio easily!!
 ## Update (13th Sep 2024)
--improve pytorch warning update
+- improve pytorch warning update
 - capture size larger
 
 ### 任意の背景を指定していかにもその場にいるかのようにします。
