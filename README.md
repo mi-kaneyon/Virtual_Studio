@@ -1,5 +1,9 @@
 # Virtual_Studio （どこでもスタジオ）
 ## You can create Personal virtual studio easily!!
+## Update (13th Sep 2024)
+-improve pytorch warning update
+- capture size larger
+
 ### 任意の背景を指定していかにもその場にいるかのようにします。
 - 背景上に人間を出しているので背景に実際の場所が抜けることはありません。
 - 日本語解説は以下のURLを参照してください
